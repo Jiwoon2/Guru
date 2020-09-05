@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Guru</string>
+    <string name="title_activity_navigation">Navigation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="angry" />
+    <string name="sad" />
+    <string name="black" />
+    <string name="blue" />
+    <string name="todo">TODO</string>
+    <string name="happy">Happy</string>
+    <string name="bushwick">카더가든-Bushwick</string>
+    <string name="dolphin">오마이걸-Dolphin</string>
+    <string name="anne_marie_birthday">Anne Marie-Birthday</string>
+    <string name="string">이하이-한숨</string>
+    <string name="string1">폴킴-비</string>
+    <string name="string2">양다일-너를 잊으면</string>
+    <string name="string3">설-눈</string>
+    <string name="selfmade_orange">창모-selfmade orange</string>
+    <string name="string4">루피,나플라-인터넷 전쟁</string>
+    <string name="string5">nct127-영웅</string>
+    <string name="string6">식케이,ph-1,박재범,김하온-깡 remix</string>
+    <string name="string7">애쉬아일랜드-악몽</string>
+    <string name="string8">애쉬아일랜드-error</string>
+    <string name="bye_bye_my_blue">백예린-bye bye my blue</string>
+    <string name="ed_sheeren_beautiful_people">ed sheeren-beautiful people</string>
+    <string name="title_activity_calendarholhol">calendarholhol</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+
+
+</resources>

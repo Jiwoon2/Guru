@@ -1,0 +1,114 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="left"
+    android:layout_marginLeft="20dp"
+    android:layout_weight="1"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/oh"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="00dp"
+        android:layout_marginTop="5dp"
+        android:background="#ffff5f"
+        android:src="@drawable/dolphin" />
+    <Button
+        android:id="@+id/ohmy"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dolphin"
+        android:backgroundTint="#ffffff"
+        android:textSize="30sp"/>
+</LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:layout_marginLeft="20dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/tae"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="00dp"
+            android:layout_marginTop="5dp"
+            android:background="#ffff5f"
+            android:src="@drawable/happy" />
+        <Button
+            android:id="@+id/tay"
+            android:layout_gravity="center"
+            android:layout_marginLeft="30dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="태연-Happy"
+            android:backgroundTint="#ffffff"
+            android:textSize="30sp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:layout_marginLeft="20dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/car"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="00dp"
+            android:layout_marginTop="5dp"
+            android:background="#ffff5f"
+            android:src="@drawable/bushwick" />
+        <Button
+            android:id="@+id/kade"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bushwick"
+            android:backgroundTint="#ffffff"
+            android:textSize="30sp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:layout_marginLeft="20dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/anne"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="00dp"
+            android:layout_marginTop="5dp"
+            android:background="#ffff5f"
+            android:src="@drawable/birthday" />
+        <Button
+            android:id="@+id/gimary"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/anne_marie_birthday"
+            android:backgroundTint="#ffffff"
+            android:textSize="30sp"/>
+    </LinearLayout>
+
+</LinearLayout>

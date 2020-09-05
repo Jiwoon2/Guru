@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "241649064995",
+    "firebase_url": "https://feelaylist.firebaseio.com",
+    "project_id": "feelaylist",
+    "storage_bucket": "feelaylist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241649064995:android:6e11b35995077bc08d2596",
+        "android_client_info": {
+          "package_name": "com.kjw.guru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241649064995-6mt1pf4l76s52epnu8noau2iu3u7q2rj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu4hTwg7ZK7we5JkaLLAUqb4V1PrGMVDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241649064995-6mt1pf4l76s52epnu8noau2iu3u7q2rj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
