@@ -1,1 +1,5 @@
+Guru2-Android 프로젝트
+
+안드로이드 스튜디오와 깃허브 
 https://inma.tistory.com/52
+
